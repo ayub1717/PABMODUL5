@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PABMODUL5</string>
+    <string name="value01">UNIKU KAMPUS 2 </string>
+    <string name="value02">Jalan Pramuka No.67, Purwawinangun, Kecamatan Kuningan, Kabupaten Kuningan, Jawa Barat – 45512
+    Telepon: (0232) 875 097</string>
+    <string name="value101">View..</string>
+    <string name="value1">Teknik Informatika - S1</string>
+    <string name="value2">Kemampuan melakukan pembuatan sebuah program; Kemampuan berpikir logis; Kemampuan berpikir sistematis</string>
+    <string name="value21">Sistem Informasi - S1</string>
+    <string name="value22">Kemampuan melakukan rekayasa dengan komputer; Kemampuan problem solving; Kemampuan berpikir sistematis.</string>
+    <string name="value31">Desain Komunikasi Visual - S1</string>
+    <string name="value32">Kemampuan menyelesaikan masalah komunikasi melalui visual; Keterampilan teknis mendesain; Kemampuan mengoperasikan software grafis dan multimedia.</string>
+    <string name="value41">Teknik Informatika - D3</string>
+    <string name="value42">Kemampuan melakukan pembuatan sebuah program; Kemampuan berpikir logis; Kemampuan berpikir sistematis</string>
+    <string name="value51">Manajeman Informatika - D3</string>
+    <string name="value52">Kemampuan melakukan rekayasa dengan komputer; Kemampuan problem solving; Kemampuan berpikir sistematis.</string>
+
+<string name="judul1">PROGRAM STUDI</string>
+    <string name="judul2">Fakultas Ilmu Komputer</string>
+    <string name="judulti1">Teknik Informatika - S1</string>
+    <string name="isiti1">Teknik Informatika, sebagai salah satu cabang ilmu di bidang teknologi informasi, telah menjadi pilihan populer di kalangan mahasiswa yang berminat mengembangkan keahlian di dunia teknologi. Program Studi Teknik Informatika tingkat Sarjana (S1) menawarkan pengetahuan dan keterampilan yang luas untuk menghadapi tantangan dalam era digital yang terus berkembang.</string>
+    <string name="judulti2">1. Pemahaman Dasar Teknologi Informasi</string>
+    <string name="isiti2">Salah satu inti dari Program Studi Teknik Informatika adalah pemahaman dasar teknologi informasi. Mahasiswa akan diajarkan konsep dasar seperti pemrograman, algoritma, struktur data, dan logika pemrograman. Ini membantu mereka membangun fondasi kuat yang diperlukan untuk memahami dan menyelesaikan permasalahan teknis yang kompleks.</string>
+    <string name="judulti3">2. Pengembangan Perangkat Lunak</string>
+    <string name="isiti3">Program ini fokus pada pengembangan perangkat lunak, mulai dari perancangan, implementasi, hingga pengujian. Mahasiswa diajarkan berbagai bahasa pemrograman dan framework yang umum digunakan di industri. Proyek-proyek pengembangan perangkat lunak yang dijalankan selama studi memberikan pengalaman praktis dan kemampuan untuk bekerja secara tim.</string>
+    <string name="judulti4">3. Sistem Informasi</string>
+    <string name="isiti4">Teknik Informatika tidak hanya mengajarkan cara membuat perangkat lunak, tetapi juga bagaimana mengelola sistem informasi secara efektif. Mahasiswa belajar tentang desain database, manajemen proyek, analisis kebutuhan bisnis, dan implementasi sistem informasi yang dapat mendukung operasi suatu organisasi.</string>
+    <string name="judulti5">4. Kecerdasan Buatan dan Pembelajaran Mesin</string>
+    <string name="isiti5">Di era di mana kecerdasan buatan (AI) semakin mendominasi, Program Studi Teknik Informatika juga menyentuh aspek ini. Mahasiswa belajar tentang konsep dasar kecerdasan buatan, pembelajaran mesin, dan aplikasinya dalam berbagai bidang seperti analisis data, pengenalan pola, dan pengolahan bahasa alami.</string>
+    <string name="judulti6">5. Keamanan Informasii</string>
+    <string name="isiti6">Dengan meningkatnya ancaman keamanan di dunia digital, keamanan informasi menjadi aspek penting dari kurikulum. Mahasiswa belajar untuk melindungi sistem, data, dan aplikasi dari serangan siber. Ini mencakup pemahaman tentang enkripsi, firewall, manajemen risiko keamanan informasi, dan keamanan jaringan.</string>
+    <string name="judulti7">6. Tantangan dan Peluang Karir</string>
+    <string name="isiti7">Lulusan Program Studi Teknik Informatika memiliki peluang karir yang luas. Mereka dapat bekerja sebagai pengembang perangkat lunak, analis sistem, ahli keamanan informasi, ilmuwan data, atau bahkan memilih jalur kewirausahaan dengan mendirikan perusahaan teknologi. Perusahaan-perusahaan di berbagai industri, mulai dari teknologi, keuangan, hingga kesehatan, membutuhkan tenaga ahli di bidang ini.</string>
+    <string name="judulti8">7. Pentingnya Praktik Kerja dan Magang</string>
+    <string name="isiti8">Program ini juga mendorong mahasiswa untuk mengikuti praktik kerja atau magang selama masa studi. Ini memberikan pengalaman langsung di dunia nyata, memungkinkan mahasiswa mengaplikasikan pengetahuan teoritis mereka dan mengembangkan keterampilan praktis yang dicari oleh industri.</string>
+
+</resources>
